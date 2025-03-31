@@ -23,9 +23,6 @@ I am a passionate **Java Full Stack Developer** specializing in **Spring Boot**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/k-thillai-nirmal)  
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github)](https://github.com/thillainirmal-tech)
 
-## 🚀 Interactive GitHub Profile with Binary Effect & Certificates
-[![Profile with Effects](https://img.shields.io/badge/Live_Profile-Click_Here-brightgreen)](https://thillainirmal-tech.github.io/github-profile-effects)
-
 ## 📊 GitHub Stats
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thillainirmal-tech&theme=radical" alt="GitHub Streak" />
@@ -35,5 +32,4 @@ I am a passionate **Java Full Stack Developer** specializing in **Spring Boot**,
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thillainirmal-tech&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-## 🌟 Fun Fact  
-💡 *"There are more stars in the universe than grains of sand on Earth."* 🌌
+
